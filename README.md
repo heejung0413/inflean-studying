@@ -1,4 +1,4 @@
-# inflean-studyng
+# inflean-studying
 
 <h3>코어 자바스크립트</h3>
 <a href="https://heedymy.tistory.com/4">자바스크립트 -기본형과 참조형</a> </br>
