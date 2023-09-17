@@ -1,7 +1,7 @@
 # inflean-studying 
 
 이 강의들은 <a href="https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EA%B0%9C%EB%85%90-javascript-flow">인프런 코어자바스크립트</a> 와
- <a href="https://www.inflearn.com/course/ecmascript-6-flow">인프런 Javascript ES6+ 제대로 알아보기 - 초급</a>
+ <a href="https://www.inflearn.com/course/ecmascript-6-flow">인프런 Javascript ES6+ 제대로 알아보기 - 초급</a>를 참고하여 작성하였습니다 ⭐
 
 <h3>코어 자바스크립트</h3>
 <a href="https://heedymy.tistory.com/4">자바스크립트 -기본형과 참조형</a> </br>
