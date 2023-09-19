@@ -22,7 +22,8 @@
 <a href="https://heedymy.tistory.com/14">자바스크립트 -default parameter</a> </br>
 <a href="https://heedymy.tistory.com/15">자바스크립트 -rest parameter, spread operator</a>  (아직 작성중 )</br>
 <a href="https://heedymy.tistory.com/16">자바스크립트 -arrow function</a> </br>
-<a href="https://heedymy.tistory.com/17">자바스크립트 - function ETC</a>
+<a href="https://heedymy.tistory.com/17">자바스크립트 - function ETC</a> </br>
+<a href="https://heedymy.tistory.com/18">자바스크립트 - 자바스크립트 - Destructuring assignment </a>
 </br>
 </br>
 
